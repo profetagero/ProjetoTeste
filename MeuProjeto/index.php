@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-       // Minha nova modificação 
+       echo "Minha Modificação em PHP"; 
         ?>
     </body>
 </html>
